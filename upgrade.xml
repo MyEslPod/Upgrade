@@ -7,5 +7,5 @@
 	ddd
 	</description>
 	<upgradeASAP>0</upgradeASAP>
-	<promptInterval>7</promptInterval>
+	<promptInterval>0</promptInterval>
 </upgrade>

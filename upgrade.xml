@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>19999</versionCode>
+	<versionCode>11</versionCode>
 	<versionName>1.4.3c</versionName>
 	<description>- Online play
 - Listen change of network
 - Share
 - Bug fix
 	</description>
-	<upgradeASAP>1</upgradeASAP>
+	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>7</promptInterval>
 </upgrade>

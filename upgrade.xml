@@ -6,4 +6,6 @@
 	test
 	ddd
 	</description>
+	<upgradeASAP>1</upgradeASAP>
+	<promptInterval>7</promptInterval>
 </upgrade>

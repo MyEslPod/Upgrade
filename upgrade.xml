@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>13</versionCode>
-	<versionName>1.4.4c</versionName>
-	<description>- bug fix
-- adjust UI
-	</description>
+	<versionCode>15</versionCode>
+	<versionName>1.4.5c</versionName>
+	<description>- fix crash bug</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

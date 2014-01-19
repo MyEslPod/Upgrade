@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>15</versionCode>
-	<versionName>1.4.5c</versionName>
-	<description>- fix crash bug</description>
+	<versionCode>17</versionCode>
+	<versionName>1.5c</versionName>
+	<description>- add play button in notification panel (available in Android 4.1 or later)
+- improve performance of Online play
+- fix bug</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

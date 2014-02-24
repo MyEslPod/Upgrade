@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>19</versionCode>
-	<versionName>1.5.1c</versionName>
-	<description>- bug fix</description>
+	<versionCode>21</versionCode>
+	<versionName>1.6c</versionName>
+	<description>- Translate word with google when select a word (available in Android 3.0 or later)
+- Repeat mode: repeat all, repeat one
+- Download description automaticlly if you have mp3 only
+  Notes:
+  1. Mp3 files must be in directory of media
+  2. File name of mp3 must follow the rules, such as: ESL Podcast 975 – Making Food from Scratch.mp3, ESLPod975.mp3, English Café 438.mp3, EC437.mp3
+- Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

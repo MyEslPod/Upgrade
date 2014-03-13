@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>23</versionCode>
-	<versionName>1.6.1c</versionName>
-	<description>- Support Youdao dictionary 3.X and 4.X if you installed it
+	<versionCode>25</versionCode>
+	<versionName>1.6.2c</versionName>
+	<description>- Support ColorDict dictionary (3.X/4.X) if you installed it
+- Support adjust font size of description
 - Bug fix</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>

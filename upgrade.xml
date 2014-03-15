@@ -7,4 +7,5 @@
 - Bug fix</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
+	<packageSize>140KB</packageSize>
 </upgrade>

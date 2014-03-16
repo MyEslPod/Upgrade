@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>25</versionCode>
-	<versionName>1.6.2c</versionName>
-	<description>- Support ColorDict dictionary (3.X/4.X) if you installed it
-- Support adjust font size of description
+	<versionCode>27</versionCode>
+	<versionName>1.6.3c</versionName>
+	<description>- Support English Vietnamese Dictionary (Tu Dien Anh Viet-Từ Điển TFLAT) (4.X) if you installed it
+- Support to pause when headset unplugging
 - Bug fix</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
-	<packageSize>140KB</packageSize>
+	<packageSize>144KB</packageSize>
 </upgrade>

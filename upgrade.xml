@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>29</versionCode>
-	<versionName>1.7c</versionName>
-	<description>- Challenge system, there is 6 levels according to listened episodes: BEGINNER (0-10%), AMATEUR (10%-30%), INTERMEDIATE (30%-70%), EXPERT (70%-90%), MASTER (90%-100%), GURU (100%)
-- Bug fix and performance optimize</description>
+	<versionCode>31</versionCode>
+	<versionName>1.7.1c</versionName>
+	<description>- Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
-	<packageSize>149KB</packageSize>
+	<packageSize>166KB</packageSize>
 </upgrade>

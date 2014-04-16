@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>31</versionCode>
-	<versionName>1.7.1c</versionName>
-	<description>- Bug fix and performance optimize</description>
+	<versionCode>33</versionCode>
+	<versionName>1.7.2c</versionName>
+	<description>- Sleep Mode
+- Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
-	<packageSize>166KB</packageSize>
+	<packageSize>168KB</packageSize>
 </upgrade>

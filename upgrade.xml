@@ -6,5 +6,4 @@
 - Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
-	<packageSize>168KB</packageSize>
 </upgrade>

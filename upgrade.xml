@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>33</versionCode>
-	<versionName>1.7.2c</versionName>
-	<description>- Sleep Mode
+	<versionCode>35</versionCode>
+	<versionName>1.8c</versionName>
+	<description>- Show all episodes in ONLINE
+- Theme: Light, Dark. You can change is in Settings. (Available in Android 3.0+)
 - Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>

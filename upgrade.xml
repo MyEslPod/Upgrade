@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>35</versionCode>
-	<versionName>1.8c</versionName>
-	<description>- Show all episodes in ONLINE
-- Theme: Light, Dark. You can change is in Settings. (Available in Android 3.0+)
+	<versionCode>37</versionCode>
+	<versionName>1.8.1c</versionName>
+	<description>- Support BlueDict (5.9.2), if you installed it. (Available in Android 3.0+)
 - Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>

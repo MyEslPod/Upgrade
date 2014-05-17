@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>37</versionCode>
-	<versionName>1.8.1c</versionName>
-	<description>- Support BlueDict (5.9.2), if you installed it. (Available in Android 3.0+)
+	<versionCode>39</versionCode>
+	<versionName>1.8.2c</versionName>
+	<description>- Show listened episode in ONLINE
 - Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>39</versionCode>
-	<versionName>1.8.2c</versionName>
-	<description>- Show listened episode in ONLINE
-- Bug fix and performance optimize</description>
+	<versionCode>41</versionCode>
+	<versionName>1.8.3c</versionName>
+	<description>- Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

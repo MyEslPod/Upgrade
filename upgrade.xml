@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>43</versionCode>
-	<versionName>1.9c</versionName>
-	<description>- Pull to refresh
-- Play forward episode (5s, 10s, 20s, 30s)
-- Record learning days in Challenge
-- Bug fix and performance optimize</description>
+	<versionCode>45</versionCode>
+	<versionName>1.9.1c</versionName>
+	<description>- Bug fix and performance optimize</description>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>45</versionCode>
-	<versionName>1.9.1c</versionName>
-	<description>- Bug fix and performance optimize</description>
+	<versionCode>47</versionCode>
+	<versionName>1.10c</versionName>
+	<description>- Favorite
+- Tags
+- Improve search in ONLINE
+- Bug fix and performance optimize</description>
+	<descriptionCN>- 收藏
+- 标签
+- 改进在线搜索
+- 错误修复和性能优化</descriptionCN>
+	<descriptionTW>- 收藏
+- 標籤
+- 改進線上搜索
+- 錯誤修復和性能優化</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

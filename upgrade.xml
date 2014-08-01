@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>49</versionCode>
-	<versionName>1.10.1c</versionName>
-	<description>- Bug fix and performance optimize</description>
-	<descriptionCN>- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>51</versionCode>
+	<versionName>1.10.2c</versionName>
+	<description>- Choose language in Settings
+- Bug fix and performance optimize</description>
+	<descriptionCN>- 在设置里选择语言
+- 错误修复和性能优化</descriptionCN>
+	<descriptionTW>- 在設置里選擇語言
+- 錯誤修復和性能優化</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

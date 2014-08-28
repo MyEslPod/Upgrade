@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>53</versionCode>
-	<versionName>1.10.3c</versionName>
+	<versionCode>55</versionCode>
+	<versionName>1.10.4c</versionName>
 	<description>- Bug fix and performance optimize</description>
 	<descriptionCN>- 错误修复和性能优化</descriptionCN>
 	<descriptionTW>- 錯誤修復和性能優化</descriptionTW>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>55</versionCode>
-	<versionName>1.10.4c</versionName>
-	<description>- Bug fix and performance optimize</description>
-	<descriptionCN>- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>57</versionCode>
+	<versionName>1.10.5c</versionName>
+	<description>- A Day in the Life of Jeff
+- A Day in the Life of Lucy
+- English Through Stories
+- Interview Questions Answered
+- Using English at Work
+- Business Meetings
+- Bug fix and performance optimize</description>
+	<descriptionCN>- A Day in the Life of Jeff
+- A Day in the Life of Lucy
+- English Through Stories
+- Interview Questions Answered
+- Using English at Work
+- Business Meetings
+- 错误修复和性能优化</descriptionCN>
+	<descriptionTW>- A Day in the Life of Jeff
+- A Day in the Life of Lucy
+- English Through Stories
+- Interview Questions Answered
+- Using English at Work
+- Business Meetings
+- 錯誤修復和性能優化</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

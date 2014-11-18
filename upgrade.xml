@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>65</versionCode>
-	<versionName>1.12c</versionName>
-	<description>- Use custom script file:
-  According to mp3 file name, load txt/pdf file automatically. Or:
-  Select script txt/pdf file manually
-- Bug fix and performance optimize</description>
-	<descriptionCN>- 使用自定义的内容文件：
-  根据mp3的文件名，自动加载同名的txt/pdf文件。或：
-  手动选择txt/pdf文件
-- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 使用自訂的內容文件：
-  根據mp3的檔案名，自動載入同名的txt/pdf文件。或：
-  手動選擇txt/pdf文件
-- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>67</versionCode>
+	<versionName>1.12.1c</versionName>
+	<description>- Bug fix and performance optimize</description>
+	<descriptionCN>- 错误修复和性能优化</descriptionCN>
+	<descriptionTW>- 錯誤修復和性能優化</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

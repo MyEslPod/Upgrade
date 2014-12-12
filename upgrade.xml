@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>67</versionCode>
-	<versionName>1.12.1c</versionName>
-	<description>- Bug fix and performance optimize</description>
-	<descriptionCN>- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>71</versionCode>
+	<versionName>1.12.2c</versionName>
+	<description>- Fix the issue that can't use external SDCard in Android 4.4+</description>
+	<descriptionCN>- 修复安卓4.4以后版本，无法使用外置存储卡的问题</descriptionCN>
+	<descriptionTW>- 修復安卓4.4以後版本，無法使用外置存儲卡的問題</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

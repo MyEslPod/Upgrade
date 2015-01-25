@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>75</versionCode>
-	<versionName>1.12.3c</versionName>
+	<versionCode>77</versionCode>
+	<versionName>1.13.1c</versionName>
 	<description>- Fix issue that can't use external dictionary in MIUI
 - Add "My Dictionary" (Available in Android 3.0+)
 - Improve search

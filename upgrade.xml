@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>78</versionCode>
-	<versionName>1.13.2</versionName>
-	<description>- Fix issue that can't use external dictionary in MIUI
-- Add "My Dictionary" (Available in Android 3.0+)
-- Improve search
+	<versionCode>203</versionCode>
+	<versionName>2.0.2</versionName>
+	<description>- Change Play Speed (Available in Android 4.1+)
 - Bug fix and Performance optimize</description>
-	<descriptionCN>- 修复MIUI不能使用外部词典的问题
-- 增加“我的词典”（适用于安卓3.0+）
-- 改进查找
+	<descriptionCN>- 变速播放（适用于安卓4.1+）
 - 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 修復MIUI不能使用外部詞典的問題
-- 增加“我的詞典”（適用于安卓3.0+）
-- 改進查找
+	<descriptionTW>- 變速播放（適用于安卓4.1+）
 - 錯誤修復和性能優化</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>

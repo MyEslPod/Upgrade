@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>203</versionCode>
-	<versionName>2.0.2</versionName>
-	<description>- Change Play Speed (Available in Android 4.1+)
-- Bug fix and Performance optimize</description>
-	<descriptionCN>- 变速播放（适用于安卓4.1+）
-- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 變速播放（適用于安卓4.1+）
-- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>204</versionCode>
+	<versionName>2.0.3</versionName>
+	<description>- Add a option for Change Play Speed</description>
+	<descriptionCN>- 增加变速播放的选项。使用变速播放不正常的设备，可以用它来关闭变速播放</descriptionCN>
+	<descriptionTW>- 增加變速播放的選項。使用變速播放不正常的設備，可以用它來關閉變速播放</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>

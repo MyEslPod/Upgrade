@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrade>
-	<versionCode>205</versionCode>
-	<versionName>2.0.4</versionName>
-	<description>- Support GoldenDict (Free)
-- Bug fix and Performance optimize</description>
-	<descriptionCN>- 支持GoldenDict（Free）
-- 错误修复和性能优化</descriptionCN>
-	<descriptionTW>- 支持GoldenDict（Free）
-- 錯誤修復和性能優化</descriptionTW>
+	<versionCode>206</versionCode>
+	<versionName>2.0.5</versionName>
+	<description>- Bug fix</description>
+	<descriptionCN>- 错误修复</descriptionCN>
+	<descriptionTW>- 錯誤修復</descriptionTW>
 	<upgradeASAP>0</upgradeASAP>
 	<promptInterval>14</promptInterval>
 </upgrade>
